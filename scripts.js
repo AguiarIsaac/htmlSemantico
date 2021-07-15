@@ -1,0 +1,1 @@
+window.alert('Site criado para praticar HTML')
